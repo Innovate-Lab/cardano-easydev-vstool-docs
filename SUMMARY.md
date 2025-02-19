@@ -15,3 +15,12 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
+
+***
+
+* [Product Overview](product-overview.md)
+* [User Guide](user-guide/README.md)
+  * [Contributor](user-guide/contributor.md)
+  * [Developer](user-guide/developer.md)
+* [Features](features.md)
+* [Roadmap](roadmap.md)
