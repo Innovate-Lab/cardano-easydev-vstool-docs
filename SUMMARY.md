@@ -23,7 +23,7 @@
   * [Contributor](user-guide/contributor.md)
   * [Developer](user-guide/developer.md)
 * [Features](features/README.md)
-  * [1.](features/1..md)
+  * [1. Account Creation](features/1.-account-creation.md)
   * [2.](features/2..md)
   * [3.](features/3..md)
   * [4.](features/4..md)
