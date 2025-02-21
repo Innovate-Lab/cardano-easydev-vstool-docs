@@ -20,11 +20,11 @@ This feature enables new users to create and set up their Cardano wallet within 
 
 #### Seed Phrase Entry Flow
 
-<figure><img src="../.gitbook/assets/private-key.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/private-key.png" alt=""><figcaption></figcaption></figure>
 
 #### Private Key Generation Flow
 
-<figure><img src="../.gitbook/assets/seed-phrase.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/seed-phrase.png" alt=""><figcaption></figcaption></figure>
 
 ⚠️ **Important Security Notice:** The generated private keys and seed phrases from this flow should only be used in development environments. Never use development-generated credentials for production wallets or real funds.
 
