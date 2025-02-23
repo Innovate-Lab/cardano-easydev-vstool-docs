@@ -1,19 +1,33 @@
 # Account Management
 
-### Overview
+Overview
 
-This feature enables new users to create and set up their Cardano wallet within the extension by creating their seed phrase and private key credentials.
+This feature allows users to view Cardano wallet address, UTXO, assets, NFT within the extension.
 
-✅ **User Story:**
+## **User Story**
 
-> As a new user, I want to create a new Cardano wallet address with a seed phrase and private key
+> As a user, I want to view Cardano wallet address, UTXO, assets, NFT
 
-✅ **User Flow:**
+## **User Flow**
 
-1. Users click "Generate Private Key" button in the extension
-2. Extension makes API call to backend endpoint `/wallet/private-key` | `/wallet/seed-phrase`
-3. Backend connects with blockchain provider (Maestro,...)
-4. Private key / seed phrase is generated and returned through the chain
-5. User receives their generated private key / seed phrase
+{% stepper %}
+{% step %}
+Users go into "Wallet" page
+{% endstep %}
+{% endstepper %}
 
-### 🔄 User Flow Diagrams
+## User Flow Diagrams
+
+## Troubleshooting & Common Issues
+
+Coming soon
+
+## API Reference
+
+Coming soon
+
+## Demo
+
+Coming soon
+
+🔹 _For any issues, please refer to the_ [_Troubleshooting Section_](account-management.md#troubleshooting-and-common-issues) _or open an Issue on GitHub._
