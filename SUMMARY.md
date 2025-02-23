@@ -26,8 +26,3 @@
   * [Github](https://github.com/Innovate-Lab/cardano-easydev-vstool)
   * [Figma](https://www.figma.com/design/lM5rcmxr1bLpkB3JU4mI6q/Simulator)
 * [Changelog](changelog.md)
-
-## Basics
-
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)

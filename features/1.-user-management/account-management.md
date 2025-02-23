@@ -1,22 +1,34 @@
 # Account Management
 
-Overview
+## Overview
 
-This feature allows users to view Cardano wallet address, UTXO, assets, NFT within the extension.
+This feature allows users to **view their wallet details**, including **wallet address, UTXOs (Unspent Transaction Outputs), assets, and NFTs** directly within the extension
+
+
 
 ## **User Story**
 
-> As a user, I want to view Cardano wallet address, UTXO, assets, NFT
+> **As a user, I want to view my wallet address, UTXO, assets, and NFTs within the extension.**
 
 ## **User Flow**
 
 {% stepper %}
 {% step %}
-Users go into "Wallet" page
+Navigate to the **"Wallet"** page in the extension.
+{% endstep %}
+
+{% step %}
+The extension **fetches wallet data** from the backend.
+{% endstep %}
+
+{% step %}
+The **wallet address, UTXOs, assets, and NFTs** are displayed.
 {% endstep %}
 {% endstepper %}
 
 ## User Flow Diagrams
+
+
 
 ## Troubleshooting & Common Issues
 
