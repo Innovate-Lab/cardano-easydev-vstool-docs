@@ -36,11 +36,11 @@ Extension receives their generated private key / seed phrase
 
 ### Seed Phrase Entry Flow
 
-<figure><img src="../../../.gitbook/assets/private-key.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/private-key.png" alt=""><figcaption></figcaption></figure>
 
 ### Private Key Generation Flow
 
-<figure><img src="../../../.gitbook/assets/seed-phrase.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/seed-phrase.png" alt=""><figcaption></figcaption></figure>
 
 ## ⚠️ **Important Security Notice:**&#x20;
 
@@ -56,13 +56,93 @@ Extension receives their generated private key / seed phrase
 
 ## API Reference
 
-{% content-ref url="openapi.md" %}
-[openapi.md](openapi.md)
-{% endcontent-ref %}
+### Generate Private Key
+
+<mark style="color:green;">`POST`</mark> `/wallet/private-key`
+
+Generate new private key
+
+**Headers**
+
+| Name         | Value              |
+| ------------ | ------------------ |
+| Content-Type | `application/json` |
+
+**Body**
+
+**Response**
+
+{% tabs %}
+{% tab title="200" %}
+```json
+{
+  "code": 200,
+  "msg": "",
+  "data": {
+    "privateKey": ""
+  }
+}
+```
+{% endtab %}
+
+{% tab title="500" %}
+```json
+{
+  "code": ,
+  "msg": "",
+  "data": {
+  
+  }
+}
+```
+{% endtab %}
+{% endtabs %}
+
+### Generate Seed Phrase
+
+<mark style="color:green;">`POST`</mark> `/wallet/seed-phrase`
+
+Generate new seed phrase
+
+**Headers**
+
+| Name         | Value              |
+| ------------ | ------------------ |
+| Content-Type | `application/json` |
+
+**Body**
+
+**Response**
+
+{% tabs %}
+{% tab title="200" %}
+```json
+{
+  "code": 200,
+  "msg": "",
+  "data": {
+    "seedPhrase": ""
+  }
+}
+```
+{% endtab %}
+
+{% tab title="500" %}
+```json
+{
+  "code": ,
+  "msg": "",
+  "data": {
+  
+  }
+}
+```
+{% endtab %}
+{% endtabs %}
 
 ## Demo
 
 
 
-🔹 _For any issues, please refer to the_ [_Troubleshooting Section_](./#troubleshooting-and-common-issues) _or open an Issue on GitHub._
+🔹 _For any issues, please refer to the_ [_Troubleshooting Section_](account-creation.md#troubleshooting-and-common-issues) _or open an Issue on GitHub._
 
