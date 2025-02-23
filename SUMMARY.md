@@ -30,7 +30,5 @@
 
 ## Basics
 
-* [Quickstart](<README (1).md>)
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)

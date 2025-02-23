@@ -1,34 +1,68 @@
 # Account Creation
 
-### Overview
+## Overview
 
-This feature enables new users to create and set up their Cardano wallet within the extension by creating their seed phrase and private key credentials.
+This feature allows users to create their Cardano wallet within the extension by generating seed phrase and private key credentials.
 
-✅ **User Story:**
+## **User Story**
 
-> As a new user, I want to create a new Cardano wallet address with a seed phrase and private key
+> As a user, I want to create a new Cardano wallet with a seed phrase and private key
 
-✅ **User Flow:**
+## **User Flow**
 
-1. Users click "Generate Private Key" button in the extension
-2. Extension makes API call to backend endpoint `/wallet/private-key` | `/wallet/seed-phrase`
-3. Backend connects with blockchain provider (Maestro,...)
-4. Private key / seed phrase is generated and returned through the chain
-5. User receives their generated private key / seed phrase
+{% stepper %}
+{% step %}
+Users click "Generate Private Key | Seed Phrase" button in the extension
+{% endstep %}
 
-### 🔄 User Flow Diagrams
+{% step %}
+Extension makes API call to backend endpoint `/wallet/private-key` | `/wallet/seed-phrase`&#x20;
+{% endstep %}
 
-#### Seed Phrase Entry Flow
+{% step %}
+Backend connects with blockchain provider (Maestro,...)
+{% endstep %}
+
+{% step %}
+Private key / seed phrase is generated and returned
+{% endstep %}
+
+{% step %}
+Extension receives their generated private key / seed phrase
+{% endstep %}
+{% endstepper %}
+
+## User Flow Diagrams
+
+### Seed Phrase Entry Flow
 
 <figure><img src="../../../.gitbook/assets/private-key.png" alt=""><figcaption></figcaption></figure>
 
-#### Private Key Generation Flow
+### Private Key Generation Flow
 
 <figure><img src="../../../.gitbook/assets/seed-phrase.png" alt=""><figcaption></figcaption></figure>
 
-⚠️ **Important Security Notice:** The generated private keys and seed phrases from this flow should only be used in development environments. Never use development-generated credentials for production wallets or real funds.
+## ⚠️ **Important Security Notice:**&#x20;
+
+* The generated private keys and seed phrases from this flow should only be used in development environments.&#x20;
+* Never use development-generated credentials for production wallets or real funds.
+
+## Troubleshooting & Common Issues
+
+| **Issue**                                   | **Possible Cause**        | **Solution**                  |
+| ------------------------------------------- | ------------------------- | ----------------------------- |
+| Private key or Seed Phrase is not generated | API request failed        | Check console logs for errors |
+| "Request Timed Out" error                   | Network issue or API down | Retry after a few minutes     |
+
+## API Reference
+
+{% content-ref url="openapi.md" %}
+[openapi.md](openapi.md)
+{% endcontent-ref %}
 
 ## Demo
 
 
+
+🔹 _For any issues, please refer to the_ [_Troubleshooting Section_](./#troubleshooting-and-common-issues) _or open an Issue on GitHub._
 
