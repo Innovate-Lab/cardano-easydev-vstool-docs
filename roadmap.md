@@ -7,9 +7,9 @@ icon: map
 ## Milestone 1 <a href="#phase-0-build-the-foundation-and-community-q2" id="phase-0-build-the-foundation-and-community-q2"></a>
 
 * [ ] Design and document extension functionality
-* [ ] UI/UX design
-* [ ] Setup codebase
-* [ ] Account creation feature
+* [x] UI/UX design
+* [x] Setup codebase
+* [x] Account creation feature
 
 ## Milestone 2 <a href="#phase-1-redacted-launch-q3" id="phase-1-redacted-launch-q3"></a>
 
