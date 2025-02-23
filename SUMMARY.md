@@ -1,15 +1,6 @@
 # Table of contents
 
-## Basics
-
-* [Quickstart](README.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
-
-***
-
-* [Product Overview](product-overview.md)
+* [Product Overview](README.md)
 * [Roadmap](roadmap.md)
 * [User Guide](user-guide/README.md)
   * [Prerequisite](user-guide/prerequisite.md)
@@ -23,9 +14,18 @@
   * [4. Create DApp Template](features/4..md)
   * [5. Simulation](features/5..md)
   * [6. Wallet Management](features/6.-wallet-management.md)
-* [TechStack](techstack.md)
+* [TechStack](techstack/README.md)
+  * [Extension - Frontend](techstack/extension-frontend.md)
+  * [Backend](techstack/backend.md)
 * [Links](links/README.md)
   * [Visual Studio Marketplace](https://marketplace.visualstudio.com/)
-  * [Githu](https://github.com/Innovate-Lab/cardano-easydev-vstool)
+  * [Github](https://github.com/Innovate-Lab/cardano-easydev-vstool)
   * [Figma](https://www.figma.com/design/lM5rcmxr1bLpkB3JU4mI6q/Simulator)
 * [Changelog](changelog.md)
+
+## Basics
+
+* [Quickstart](<README (1).md>)
+* [Interactive blocks](basics/interactive-blocks.md)
+* [OpenAPI](basics/openapi.md)
+* [Integrations](basics/integrations.md)

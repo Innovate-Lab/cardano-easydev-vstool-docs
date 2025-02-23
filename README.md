@@ -1,23 +1,49 @@
 ---
-icon: bullseye-arrow
+icon: circle-info
 ---
 
-# Quickstart
+# Product Overview
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
+## What is Cardano EasyDev VS Tool?
 
-Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
+**Cardano EasyDev VS Tool** is a powerful **VS Code extension** designed specifically for **Cardano blockchain developers**. It streamlines the development process by providing comprehensive tools for **smart contract development, dApp creation, and blockchain interaction**—all within your preferred code editor.
 
-{% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](https://github.com/GitbookIO/onboarding-template/blob/main/getting-started/broken-reference/README.md) section to learn more.
-{% endhint %}
+This extension is tailored to simplify and **accelerate the development cycle** on the Cardano ecosystem by offering direct **Aiken language support, transaction building**in one seamless package.
 
-### Import
+<figure><img src=".gitbook/assets/banner.jpg" alt=""><figcaption><p>Cardano EasyDev VS Tool</p></figcaption></figure>
 
-GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
+## Why Use Cardano EasyDev VS Tool?
 
-<div data-full-width="false"><figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-import.png" alt=""><figcaption></figcaption></figure></div>
+Developing on **Cardano** presents unique challenges that this tool effectively addresses:
 
-### Sync a repository
+* 🚀 **Simplified Smart Contract Development**: Write, build, and test **Aiken contracts** directly within VS Code—eliminating the need to switch between multiple tools and command-line interfaces.
+* 🏗 **Project Scaffolding**: Instantly generate complete **project structures**, including frontend and validator components with a single click.
+* 🔗 **Blockchain Interaction Tools**: Manage wallets, build transactions, and **sign transaction** without leaving VS Code.
 
-GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.
+## Key Features
+
+### **Smart Contract Development**
+
+* Direct **Aiken build and test execution** within VS Code
+* Integrated **plutus.json** interaction and validation
+
+### **dApp Development Acceleration**
+
+* One-click **project template generation** for faster development
+* Built-in **frontend component** for seamless dApp integration
+
+### **Comprehensive Blockchain Tools**
+
+* **Wallet management** and integration
+* **Transaction building and signing**
+
+## How It Benefits Developers
+
+By consolidating these powerful tools into a single extension, **Cardano EasyDev VS Tool** significantly reduces **development time**, minimizes **setup complexity**, and enhances the overall **developer experience** within the Cardano ecosystem.
+
+### **Get Started Today**
+
+📌 Install the extension from the **VS Code Marketplace** and supercharge your **Cardano development workflow**.
+
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table>
+
