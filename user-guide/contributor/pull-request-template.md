@@ -1,3 +1,7 @@
+---
+icon: code-pull-request
+---
+
 # Pull Request Template
 
 ## Contribution
