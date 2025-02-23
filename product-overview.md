@@ -1,3 +1,7 @@
+---
+icon: circle-info
+---
+
 # Product Overview
 
 ## What is Cardano EasyDev VS Tool?
@@ -5,6 +9,8 @@
 **Cardano EasyDev VS Tool** is a powerful **VS Code extension** designed specifically for **Cardano blockchain developers**. It streamlines the development process by providing comprehensive tools for **smart contract development, dApp creation, and blockchain interaction**—all within your preferred code editor.
 
 This extension is tailored to simplify and **accelerate the development cycle** on the Cardano ecosystem by offering direct **Aiken language support, transaction building**in one seamless package.
+
+<figure><img src=".gitbook/assets/banner.jpg" alt=""><figcaption><p>Cardano EasyDev VS Tool</p></figcaption></figure>
 
 ## Why Use Cardano EasyDev VS Tool?
 
@@ -38,3 +44,6 @@ By consolidating these powerful tools into a single extension, **Cardano EasyDev
 ### **Get Started Today**
 
 📌 Install the extension from the **VS Code Marketplace** and supercharge your **Cardano development workflow**.
+
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table>
+

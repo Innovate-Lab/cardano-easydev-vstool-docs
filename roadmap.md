@@ -1,3 +1,7 @@
+---
+icon: map
+---
+
 # Roadmap
 
 ## Milestone 1 <a href="#phase-0-build-the-foundation-and-community-q2" id="phase-0-build-the-foundation-and-community-q2"></a>

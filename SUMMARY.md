@@ -1,17 +1,8 @@
 # Table of contents
 
-* [Welcome](README.md)
-
-## Getting Started
-
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
-
 ## Basics
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
+* [Quickstart](README.md)
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
@@ -35,5 +26,6 @@
 * [TechStack](techstack.md)
 * [Links](links/README.md)
   * [Visual Studio Marketplace](https://marketplace.visualstudio.com/)
-  * [Github](https://github.com/Innovate-Lab/cardano-easydev-vstool)
+  * [Githu](https://github.com/Innovate-Lab/cardano-easydev-vstool)
+  * [Figma](https://www.figma.com/design/lM5rcmxr1bLpkB3JU4mI6q/Simulator)
 * [Changelog](changelog.md)
