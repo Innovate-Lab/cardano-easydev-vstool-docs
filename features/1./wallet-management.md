@@ -1,6 +1,4 @@
-# 2. Aiken CLI Interaction
-
-<figure><img src="../.gitbook/assets/Development.png" alt="" width="360"><figcaption></figcaption></figure>
+# Wallet Management
 
 ### Overview
 
