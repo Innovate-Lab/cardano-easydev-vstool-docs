@@ -142,6 +142,12 @@ Generate new seed phrase
 
 ## Demo
 
+### Screenshot
+
+<figure><img src="../../.gitbook/assets/account-creation.png" alt=""><figcaption></figcaption></figure>
+
+### Video
+
 
 
 🔹 _For any issues, please refer to the_ [_Troubleshooting Section_](account-creation.md#troubleshooting-and-common-issues) _or open an Issue on GitHub._
