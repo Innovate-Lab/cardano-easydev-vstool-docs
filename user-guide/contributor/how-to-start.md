@@ -6,51 +6,8 @@ icon: toggle-large-on
 
 ## Extension - Frontend
 
-{% stepper %}
-{% step %}
-###
-
-
-{% endstep %}
-
-{% step %}
-###
-
-
-{% endstep %}
-
-{% step %}
-###
-
-
-{% endstep %}
-
-{% step %}
-###
-
-
-{% endstep %}
-
-{% step %}
-###
-
-
-{% endstep %}
-{% endstepper %}
+Coming soon
 
 ## Backend
 
-{% stepper %}
-{% step %}
-###
-
-
-{% endstep %}
-
-{% step %}
-###
-
-
-{% endstep %}
-{% endstepper %}
-
+Coming soon

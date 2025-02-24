@@ -45,5 +45,7 @@ By consolidating these powerful tools into a single extension, **Cardano EasyDev
 
 📌 Install the extension from the **VS Code Marketplace** and supercharge your **Cardano development workflow**.
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a href="roadmap.md">roadmap.md</a></td></tr><tr><td></td><td><a href="user-guide/">user-guide</a></td></tr><tr><td></td><td><a href="features/">features</a></td></tr><tr><td></td><td><a href="techstack/">techstack</a></td></tr><tr><td></td><td><a href="links/">links</a></td></tr><tr><td></td><td><a href="changelog.md">changelog.md</a></td></tr></tbody></table>
+
+
 

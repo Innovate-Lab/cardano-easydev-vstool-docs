@@ -1,12 +1,16 @@
 ---
 icon: map
+description: >-
+  This page outlines the development milestones of the project, highlighting key
+  features and improvements planned for each phase. Stay updated on our progress
+  and upcoming releases! 🚀
 ---
 
 # Roadmap
 
 ## Milestone 1 <a href="#phase-0-build-the-foundation-and-community-q2" id="phase-0-build-the-foundation-and-community-q2"></a>
 
-* [ ] Design and document extension functionality
+* [x] Design and document extension functionality
 * [x] UI/UX design
 * [x] Setup codebase
 * [x] Account creation feature
