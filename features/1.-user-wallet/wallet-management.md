@@ -2,23 +2,35 @@
 
 ## Overview
 
-This feature allows users to&#x20;
+This feature enables users to efficiently track transactions of wallet
 
 ## **User Story**
 
-> As a user, I want to&#x20;
+> As a user, I want to track transactions of wallet seamlessly.
 
 ## **User Flow**
 
 {% stepper %}
 {% step %}
+User navigate to the **"Wallet"** page in the extension.
+{% endstep %}
 
+{% step %}
+The extension calls the backend API to retrieve transaction data
+{% endstep %}
+
+{% step %}
+The backend fetches transaction data via blockchain provider and aggregates the transaction list
+{% endstep %}
+
+{% step %}
+User can view Transaction Details
 {% endstep %}
 {% endstepper %}
 
 ## User Flow Diagrams
 
-
+<figure><img src="../../.gitbook/assets/wallet-management.png" alt=""><figcaption></figcaption></figure>
 
 ## Troubleshooting & Common Issues
 
