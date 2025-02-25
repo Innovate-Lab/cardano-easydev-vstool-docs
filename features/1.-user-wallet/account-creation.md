@@ -148,6 +148,8 @@ Generate new seed phrase
 
 ### Video
 
+{% embed url="https://youtu.be/AUskE4kvLKo" %}
+
 
 
 🔹 _For any issues, please refer to the_ [_Troubleshooting Section_](account-creation.md#troubleshooting-and-common-issues) _or open an Issue on GitHub._
