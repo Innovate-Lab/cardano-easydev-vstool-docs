@@ -1,9 +1,9 @@
 ---
-icon: map
 description: >-
   This page outlines the development milestones of the project, highlighting key
   features and improvements planned for each phase. Stay updated on our progress
   and upcoming releases! 🚀
+icon: map
 ---
 
 # Roadmap
@@ -17,9 +17,9 @@ description: >-
 
 ## Milestone 2 <a href="#phase-1-redacted-launch-q3" id="phase-1-redacted-launch-q3"></a>
 
-* [ ] Account Management feature
-* [ ] Aiken CLI Interaction feature
-* [ ] Create Dapp template feature
+* [x] Account Management feature
+* [x] Aiken CLI Interaction feature
+* [x] Create Dapp template feature
 
 ## Milestone 3 <a href="#phase-2-tba-q4" id="phase-2-tba-q4"></a>
 
