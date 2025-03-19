@@ -16,7 +16,11 @@ User navigate to the **"Wallet"** page in the extension.
 {% endstep %}
 
 {% step %}
-The extension makes an API call to retrieve wallet data.
+User inputs a private key or seed phrase to derive the wallet address
+{% endstep %}
+
+{% step %}
+The extension makes an API call to retrieve wallet address data.
 {% endstep %}
 
 {% step %}
@@ -34,10 +38,10 @@ The **wallet address, UTXOs, assets, and NFTs** are displayed.
 
 ## Troubleshooting & Common Issues
 
-| **Issue**                       | **Possible Cause**        | **Solution**                  |
-| ------------------------------- | ------------------------- | ----------------------------- |
-| Unable to retrieve the template | API request failed        | Check console logs for errors |
-| "Request Timed Out" error       | Network issue or API down | Retry after a few minutes     |
+| **Issue**                                   | **Possible Cause**        | **Solution**                  |
+| ------------------------------------------- | ------------------------- | ----------------------------- |
+| Unable to retrieve assets of wallet address | API request failed        | Check console logs for errors |
+| "Request Timed Out" error                   | Network issue or API down | Retry after a few minutes     |
 
 ## API Reference
 
