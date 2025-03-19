@@ -30,7 +30,7 @@ The **wallet address, UTXOs, assets, and NFTs** are displayed.
 
 ## User Flow Diagrams
 
-<figure><img src="../../.gitbook/assets/account-management.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/account-management (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Troubleshooting & Common Issues
 
@@ -197,12 +197,10 @@ Get&#x20;
 
 ### Screenshot
 
-
+<figure><img src="../../.gitbook/assets/account-management.png" alt=""><figcaption></figcaption></figure>
 
 ### Video
 
-
-
-
+{% embed url="https://youtu.be/qrJtfNQOvrg" %}
 
 🔹 _For any issues, please refer to the_ [_Troubleshooting Section_](account-management.md#troubleshooting-and-common-issues) _or open an Issue on GitHub._
