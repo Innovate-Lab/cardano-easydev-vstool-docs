@@ -2,9 +2,9 @@
 icon: newspaper
 ---
 
-# User Guide
+# Contribution Guide
 
-Welcome to the **User Guide**, where you'll find everything you need to get started and contribute effectively. This guide is divided into three key sections:
+Welcome to the **Contribution Guide**, where you'll find everything you need to get started and contribute effectively. This guide is divided into three key sections:
 
 🔹 **Prerequisites** – Ensure you have the necessary tools, accounts, and knowledge before proceeding. This section covers system requirements, installation steps, and essential dependencies.
 
