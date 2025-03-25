@@ -30,7 +30,7 @@ User can view Transaction Details
 
 ## User Flow Diagrams
 
-<figure><img src="../../.gitbook/assets/wallet-management.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wallet-management (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Troubleshooting & Common Issues
 
@@ -125,7 +125,7 @@ Get detail transactions of address
 
 ### Screenshot
 
-
+<figure><img src="../../.gitbook/assets/wallet-management.png" alt=""><figcaption></figcaption></figure>
 
 ### Video
 
