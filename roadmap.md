@@ -23,8 +23,8 @@ icon: map
 
 ## Milestone 3 <a href="#phase-2-tba-q4" id="phase-2-tba-q4"></a>
 
-* [ ] Simulation Transaction
-* [ ] Wallet management feature
+* [x] Simulation Transaction feature
+* [x] Wallet management feature
 * [ ] User tutorial documentation
 * [ ] Release the extension on the VS Code Marketplace
 
