@@ -30,7 +30,7 @@
   * [Extension - Frontend](techstack/extension-frontend.md)
   * [Backend](techstack/backend.md)
 * [Links](links/README.md)
-  * [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=inno-labs.cardano-easydev-vstool\&ssr=false#overview)
+  * [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=inno-labs.cardano-easydev-vstool)
   * [Github](https://github.com/Innovate-Lab/cardano-easydev-vstool)
   * [Figma](https://www.figma.com/design/lM5rcmxr1bLpkB3JU4mI6q/Simulator)
 * [Changelog](changelog.md)
