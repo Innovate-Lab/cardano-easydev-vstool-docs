@@ -8,7 +8,7 @@ User navigate to the **"Wallet"** page in the extension.
 {% endstep %}
 
 {% step %}
-Users click "Connect with Private Key" or "Connect with Seed Phrase" button in the extension
+Users click the "Connect with Private Key" or "Connect with Seed Phrase" button in the extension after entering their private key or seed phrase.
 
 <figure><img src="../../.gitbook/assets/step-2-account-management.png" alt="" width="291"><figcaption></figcaption></figure>
 {% endstep %}
