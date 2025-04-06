@@ -25,8 +25,8 @@ icon: map
 
 * [x] Simulation Transaction feature
 * [x] Wallet management feature
-* [ ] User tutorial documentation
-* [ ] Release the extension on the VS Code Marketplace
+* [x] User tutorial documentation
+* [x] Release the extension on the VS Code Marketplace
 
 ## Milestone 4: TBA <a href="#phase-2-tba-q4" id="phase-2-tba-q4"></a>
 
