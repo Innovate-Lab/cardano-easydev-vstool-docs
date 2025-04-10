@@ -27,6 +27,8 @@ Date Project Completed: **April 2025**
 
     By open-sourcing all source code under the Apache 2.0 license, the project promotes transparency and collaboration. This approach invites community contributions, fostering a vibrant and engaged developer community around the tool.
 
+
+
 ***
 
 ## **Project KPIs and How They Were Addressed**
@@ -47,6 +49,7 @@ Date Project Completed: **April 2025**
     <figure><img src=".gitbook/assets/vscode-marketplace-report.png" alt=""><figcaption></figcaption></figure>
 3. **Developer Documentation:** Comprehensive developer documentation was created, including usage examples and tutorials. This documentation serves as a resource to help developers integrate and effectively use the extension.
 4. **Publishing the Extension:** The extension was published on the **VSCode Marketplace** to increase visibility and engagement with the developer community. This step was taken to facilitate the adoption of the tool among Cardano developers.
+5. **Community-Driven Development:** The project actively engaged with the Cardano developer community to gather collaborative feedback and drive continuous improvement. Open communication was maintained through open-source principles, such as utilizing GitHub issues, ensuring ongoing refinement and alignment with the needs of the ecosystem. Link
 
 ***
 
