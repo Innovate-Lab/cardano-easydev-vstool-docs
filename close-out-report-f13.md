@@ -20,17 +20,27 @@ Date Project Completed: **April 2025**
 
 ## Challenge KPIs and How They Were Addressed
 
-1. **Increased Developer Adoption:** _How the project addressed this KPI:_ By developing a Visual Studio (VS) extension that simplifies the deployment of Aiken smart contracts with a graphical user interface (GUI), the project aimed to lower the entry barrier for developers new to Cardano. This tool streamlines the development process, making it more accessible and encouraging wider adoption among developers.
-2. **Enhanced Community Engagement:** _How the project addressed this KPI:_ The project committed to open-sourcing all source code under the Apache 2.0 license, promoting transparency and collaboration. This approach invites community contributions, fostering a vibrant and engaged developer community around the tool.
+1.  **Enhanced Developer Adoption**
+
+    _How the project addressed this KPI:_ The project developed a Visual Studio Code (VS Code) extension that simplifies the smart contract development process through a graphical user interface (GUI). This tool lowers the entry barrier for developers new to Cardano, streamlining the development process and encouraging wider adoption.
+2.  **Increased Community Engagement**
+
+    _How the project addressed this KPI:_ By open-sourcing all source code under the Apache 2.0 license, the project promotes transparency and collaboration. This approach invites community contributions, fostering a vibrant and engaged developer community around the tool.
 
 ***
 
 ## **Project KPIs and How They Were Addressed**
 
-1. **Completion of Development Milestones:**
-   * _How the project addressed this KPI:_ The project set clear milestones for the development of its platform, including the MVP (Minimum Viable Product) launch. Through agile development methods, the team completed the MVP ahead of schedule and received positive feedback from beta testers.
-2. **Tool Adoption and Usage Metrics:**
-   * _How the project addressed this KPI:_ While specific adoption metrics are not detailed, the project's focus on developing a user-friendly VS extension suggests an intent to monitor and report on how widely the tool is adopted and utilized within the Cardano developer community. Tracking downloads, active users, and feedback would provide insights into the tool's impact and areas for improvement.
+1.  **Completion of Development Milestones:**
+
+    _How the project addressed this KPI:_ The project set clear milestones, including:​
+
+    * **Milestone 1:** Project setup and design documentation, including UI/UX and user flow.
+    * **Milestone 2:** Development of account management features, creation of a DApp template, and integration with the Aiken CLI.
+    * **Milestone 3:** Smart contract testing, publishing the extension, and preparing the close-out report.
+2.  **Tool Adoption and Usage Metrics:**
+
+    _How the project addressed this KPI:_ While specific adoption metrics are not detailed, the project's focus on developing a user-friendly VS extension suggests an intent to monitor and report on how widely the tool is adopted and utilized within the Cardano developer community. Tracking downloads, active users, and feedback would provide insights into the tool's impact and areas for improvement.
 
 ***
 

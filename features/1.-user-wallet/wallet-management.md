@@ -129,6 +129,6 @@ Get detail transactions of address
 
 ### Video
 
-
+{% embed url="https://youtu.be/B9K1XSy1PwE" %}
 
 🔹 _For any issues, please refer to the_ [_Troubleshooting Section_](wallet-management.md#troubleshooting-and-common-issues) _or open an Issue on GitHub._
