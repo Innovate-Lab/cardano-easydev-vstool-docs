@@ -26,8 +26,11 @@ Date Project Completed: **April 2025**
 2.  **Increased Community Engagement**
 
     By open-sourcing all source code under the Apache 2.0 license, the project promotes transparency and collaboration. This approach invites community contributions, fostering a vibrant and engaged developer community around the tool.
-
-
+3. **Structured Development Through Defined Milestones**\
+   The project followed a structured development process by defining and achieving specific milestones. The challenge KPIs for each milestone are detailed in the following links:
+   * **Milestone 1**: [Link](https://milestones.projectcatalyst.io/projects/1300040/milestones/1)
+   * **Milestone 2**: [Link](https://milestones.projectcatalyst.io/projects/1300040/milestones/2)
+   * **Milestone 3**: [Link](https://milestones.projectcatalyst.io/projects/1300040/milestones/3)
 
 ***
 
@@ -48,8 +51,16 @@ Date Project Completed: **April 2025**
 
     <figure><img src=".gitbook/assets/vscode-marketplace-report.png" alt=""><figcaption></figcaption></figure>
 3. **Developer Documentation:** Comprehensive developer documentation was created, including usage examples and tutorials. This documentation serves as a resource to help developers integrate and effectively use the extension.
-4. **Publishing the Extension:** The extension was published on the **VSCode Marketplace** to increase visibility and engagement with the developer community. This step was taken to facilitate the adoption of the tool among Cardano developers.
-5. **Community-Driven Development:** The project actively engaged with the Cardano developer community to gather collaborative feedback and drive continuous improvement. Open communication was maintained through open-source principles, such as utilizing GitHub issues, ensuring ongoing refinement and alignment with the needs of the ecosystem. Link
+4.  **Publishing the Extension:** The extension was published on the **VSCode Marketplace** to increase visibility and engagement with the developer community. This step was taken to facilitate the adoption of the tool among Cardano developers.
+
+
+
+    <figure><img src=".gitbook/assets/extension-publication.png" alt=""><figcaption></figcaption></figure>
+5.  **Community-Driven Development:** The project actively engaged with the Cardano developer community to gather collaborative feedback and drive continuous improvement. Open communication was maintained through open-source principles, such as utilizing GitHub issues, ensuring ongoing refinement and alignment with the needs of the ecosystem.
+
+
+
+    <figure><img src=".gitbook/assets/user-feedback.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
