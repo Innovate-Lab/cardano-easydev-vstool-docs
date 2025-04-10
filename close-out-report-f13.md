@@ -22,10 +22,10 @@ Date Project Completed: **April 2025**
 
 1.  **Enhanced Developer Adoption**
 
-    _How the project addressed this KPI:_ The project developed a Visual Studio Code (VS Code) extension that simplifies the smart contract development process through a graphical user interface (GUI). This tool lowers the entry barrier for developers new to Cardano, streamlining the development process and encouraging wider adoption.
+    The project developed a Visual Studio Code (VS Code) extension that simplifies the smart contract development process through a graphical user interface (GUI). This tool lowers the entry barrier for developers new to Cardano, streamlining the development process and encouraging wider adoption.
 2.  **Increased Community Engagement**
 
-    _How the project addressed this KPI:_ By open-sourcing all source code under the Apache 2.0 license, the project promotes transparency and collaboration. This approach invites community contributions, fostering a vibrant and engaged developer community around the tool.
+    By open-sourcing all source code under the Apache 2.0 license, the project promotes transparency and collaboration. This approach invites community contributions, fostering a vibrant and engaged developer community around the tool.
 
 ***
 
@@ -33,14 +33,20 @@ Date Project Completed: **April 2025**
 
 1.  **Completion of Development Milestones:**
 
-    _How the project addressed this KPI:_ The project set clear milestones, including:​
+    The project set clear milestones, including:​
 
     * **Milestone 1:** Project setup and design documentation, including UI/UX and user flow.
     * **Milestone 2:** Development of account management features, creation of a DApp template, and integration with the Aiken CLI.
     * **Milestone 3:** Smart contract testing, publishing the extension, and preparing the close-out report.
 2.  **Tool Adoption and Usage Metrics:**
 
-    _How the project addressed this KPI:_ While specific adoption metrics are not detailed, the project's focus on developing a user-friendly VS extension suggests an intent to monitor and report on how widely the tool is adopted and utilized within the Cardano developer community. Tracking downloads, active users, and feedback would provide insights into the tool's impact and areas for improvement.
+    The project's focus on developing a user-friendly VsCode extension suggests an intent to monitor and report on how widely the tool is adopted and utilized within the Cardano developer community. Tracking downloads, active users, and feedback would provide insights into the tool's impact and areas for improvement.
+
+
+
+    <figure><img src=".gitbook/assets/vscode-marketplace-report.png" alt=""><figcaption></figcaption></figure>
+3. **Developer Documentation:** Comprehensive developer documentation was created, including usage examples and tutorials. This documentation serves as a resource to help developers integrate and effectively use the extension.
+4. **Publishing the Extension:** The extension was published on the **VSCode Marketplace** to increase visibility and engagement with the developer community. This step was taken to facilitate the adoption of the tool among Cardano developers.
 
 ***
 
