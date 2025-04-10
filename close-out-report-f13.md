@@ -55,8 +55,8 @@ Date Project Completed: **April 2025**
 
 ## **Key Achievements**
 
-* **Collaboration & Engagement**: \[Highlight key achievements, particularly collaboration with other stakeholders and engagement with the community or users]
-* **Technical Achievements**: \[Mention significant technical accomplishments, such as new features developed or technical challenges overcome]
+* Release of Cardano EasyDev VsTool v0.0.4
+* The project was open-sourced with detailed documentation provided
 
 ***
 
