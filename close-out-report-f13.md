@@ -4,21 +4,21 @@ icon: arrow-progress
 
 # Close-out Report F13
 
-#### **Name of Project:** **Cardano EasyDev VS Tool**
+Name of Project on IdeaScale/Fund: **Cardano EasyDev VS Tool**
 
-**Project URL on IdeaScale/Fund:** [https://projectcatalyst.io/funds/13/cardano-open-developers/cardano-easydev-vs-tool](https://projectcatalyst.io/funds/13/cardano-open-developers/cardano-easydev-vs-tool)
+Project URL on IdeaScale/Fund: [https://projectcatalyst.io/funds/13/cardano-open-developers/cardano-easydev-vs-tool](https://projectcatalyst.io/funds/13/cardano-open-developers/cardano-easydev-vs-tool)
 
-**Project Number:** **#1300040**
+Project Number: **#1300040**
 
-**Project Manager:** Hien Phan
+Project Manager: **Hien Phan**
 
-**Date Project Started: Jan 2025**
+Date Project Started: **Jan 2025**
 
-**Date Project Completed:** **April 2025**
+Date Project Completed: **April 2025**
 
 ***
 
-#### **Challenge KPIs and How They Were Addressed**
+## Challenge KPIs and How They Were Addressed
 
 The Challenge KPIs that this project addresses:
 
@@ -68,7 +68,7 @@ The Challenge KPIs that this project addresses:
 
 ***
 
-#### **Project KPIs and How They Were Addressed**
+## **Project KPIs and How They Were Addressed**
 
 The Project KPIs aligned with the Challenge KPIs have been stated as:
 
@@ -110,14 +110,14 @@ We addressed these challenges by:
 
 ***
 
-#### **Key Achievements:**
+## **Key Achievements**
 
 * **Collaboration & Engagement**: \[Highlight key achievements, particularly collaboration with other stakeholders and engagement with the community or users]
 * **Technical Achievements**: \[Mention significant technical accomplishments, such as new features developed or technical challenges overcome]
 
 ***
 
-#### **Key Learnings:**
+## **Key Learnings**
 
 * Gained knowledge on how to propose ideas and implement projects.
 * User feedback and opinions will help improve the product's quality and UX.
@@ -125,7 +125,7 @@ We addressed these challenges by:
 
 ***
 
-#### **Next Steps for the Product or Service Developed**
+## **Next Steps for the Product or Service Developed**
 
 * Fix bugs and resolve any critical issues
 * Improve the UI/UX design for an enhanced user experience
@@ -137,13 +137,13 @@ We addressed these challenges by:
 
 ***
 
-#### **Final Thoughts/Comments:**
+## **Final Thoughts/Comments:**
 
 A big thank you to everyone who reviewed milestones, voted on our proposal, and supported us in many ways. As a small but effective open-source project, we truly appreciate all the help and encouragement we've received from the Cardano Ecosystem. Your support has meant a lot, and we look forward to continuing this journey together. Thank you for being a key part of our progress.
 
 ***
 
-#### **Links to Other Relevant Project Sources or Documents**
+## **Links to Other Relevant Project Sources or Documents**
 
 * Repositories
   * Frontend - Extension: [https://github.com/Innovate-Lab/cardano-easydev-vstool-frontend-extension](https://github.com/Innovate-Lab/cardano-easydev-vstool-frontend-extension)
@@ -154,4 +154,5 @@ A big thank you to everyone who reviewed milestones, voted on our proposal, and 
 
 ***
 
-#### **Link to Close-out Video**
+## **Link to Close-out Video**
+
