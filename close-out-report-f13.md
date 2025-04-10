@@ -33,11 +33,11 @@ Date Project Completed: **April 2025**
 
 1.  **Completion of Development Milestones:**
 
-    The project set clear milestones, including:​
+    The project set clear milestones, with each milestone supported by evidence linked below:
 
-    * **Milestone 1:** Project setup and design documentation, including UI/UX and user flow.
-    * **Milestone 2:** Development of account management features, creation of a DApp template, and integration with the Aiken CLI.
-    * **Milestone 3:** Smart contract testing, publishing the extension, and preparing the close-out report.
+    * **Milestone 1:** Project setup and design documentation, including UI/UX and user flow. [Link](https://milestones.projectcatalyst.io/projects/1300040/milestones/1)
+    * **Milestone 2:** Development of account management features, creation of a DApp template, and integration with the Aiken CLI. [Link](https://milestones.projectcatalyst.io/projects/1300040/milestones/2)
+    * **Milestone 3:** Smart contract testing, publishing the extension, and preparing the close-out report. [Link](https://milestones.projectcatalyst.io/projects/1300040/milestones/3)
 2.  **Tool Adoption and Usage Metrics:**
 
     The project's focus on developing a user-friendly VsCode extension suggests an intent to monitor and report on how widely the tool is adopted and utilized within the Cardano developer community. Tracking downloads, active users, and feedback would provide insights into the tool's impact and areas for improvement.
