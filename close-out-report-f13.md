@@ -110,3 +110,4 @@ A big thank you to everyone who reviewed milestones, voted on our proposal, and 
 
 ## **Link to Close-out Video**
 
+{% embed url="https://youtu.be/3SubJ_fErIg" %}
